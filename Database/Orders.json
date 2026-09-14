@@ -1,0 +1,120 @@
+[{
+  "_id": {
+    "$oid": "6a9e518abeaf3b24f35a5eb7"
+  },
+  "id": "ORD-1",
+  "customer": "Neha Singh",
+  "productName": "iPhone 15",
+  "items": 1,
+  "amount": 79999,
+  "status": "Shipped",
+  "date": "07-Aug-2026"
+},
+{
+  "_id": {
+    "$oid": "6a9e518abeaf3b24f35a5eba"
+  },
+  "id": "ORD-2",
+  "customer": "Rohit Kumar",
+  "productName": "OnePlus 13",
+  "items": 2,
+  "amount": 139998,
+  "status": "Cancelled",
+  "date": "15-Aug-2026"
+},
+{
+  "_id": {
+    "$oid": "6a9e518abeaf3b24f35a5eb5"
+  },
+  "id": "ORD-3",
+  "customer": "Rahul Sharma",
+  "productName": "MacBook Air M3",
+  "items": 1,
+  "amount": 114999,
+  "status": "Pending",
+  "date": "03-Aug-2026"
+},
+{
+  "_id": {
+    "$oid": "6a9e518abeaf3b24f35a5eb9"
+  },
+  "id": "ORD-4",
+  "customer": "Priya Mehta",
+  "productName": "Dell Inspiron 15",
+  "items": 1,
+  "amount": 65999,
+  "status": "Pending",
+  "date": "12-Aug-2026"
+},
+{
+  "_id": {
+    "$oid": "6a9e518abeaf3b24f35a5eb6"
+  },
+  "id": "ORD-5",
+  "customer": "Ankit Verma",
+  "productName": "HP Pavilion 14",
+  "items": 2,
+  "amount": 97998,
+  "status": "Delivered",
+  "date": "05-Aug-2026"
+},
+{
+  "_id": {
+    "$oid": "6a9e518abeaf3b24f35a5eb8"
+  },
+  "id": "ORD-6",
+  "customer": "Aman Gupta",
+  "productName": "Sony WH-1000XM5",
+  "items": 1,
+  "amount": 29990,
+  "status": "Delivered",
+  "date": "10-Aug-2026"
+},
+{
+  "_id": {
+    "$oid": "6a9e518abeaf3b24f35a5ebc"
+  },
+  "id": "ORD-7",
+  "customer": "Vikas Yadav",
+  "productName": "iPad Air M2",
+  "items": 1,
+  "amount": 59900,
+  "status": "Delivered",
+  "date": "20-Aug-2026"
+},
+{
+  "_id": {
+    "$oid": "6a9e518abeaf3b24f35a5ebb"
+  },
+  "id": "ORD-8",
+  "customer": "Sneha Kapoor",
+  "productName": "Apple Watch Series 10",
+  "items": 1,
+  "amount": 46999,
+  "status": "Shipped",
+  "date": "18-Aug-2026"
+},
+{
+  "_id": {
+    "$oid": "6a9e518abeaf3b24f35a5eb4"
+  },
+  "id": "ORD-9",
+  "customer": "Piyush Rawat",
+  "productName": "Samsung Galaxy S25",
+  "items": 2,
+  "amount": 149998,
+  "status": "Delivered",
+  "date": "01-Aug-2026"
+},
+{
+  "_id": {
+    "$oid": "6a9e518abeaf3b24f35a5ebd"
+  },
+  "id": "ORD-10",
+  "customer": "Karan Malhotra",
+  "productName": "Samsung Galaxy Tab S9",
+  "items": 1,
+  "amount": 72999,
+  "status": "Pending",
+  "date": "22-Aug-2026"
+}]

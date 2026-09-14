@@ -1,0 +1,200 @@
+[{
+  "_id": {
+    "$oid": "6a83f8a6ce386b642301542b"
+  },
+  "name": "iPhone 15",
+  "price": 79999,
+  "category": "Mobile",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgwnFYqJnvN7cPZ_e0tTYtux4ZH3L82QZFQJAat1Mvgg&s=10",
+  "description": "Apple iPhone 15 with A16 Bionic chip, 128GB storage, and advanced dual-camera system."
+},
+{
+  "_id": {
+    "$oid": "6a83f8a6ce386b642301542c"
+  },
+  "name": "Samsung Galaxy S25",
+  "price": 74999,
+  "category": "Mobile",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcBEtS75gZLry_OxMpfuJsubRjvaukclsDjbzv38A-0w&s",
+  "description": "Samsung Galaxy S25 with Dynamic AMOLED display, powerful Snapdragon processor, and long-lasting battery."
+},
+{
+  "_id": {
+    "$oid": "6a83f8a6ce386b642301542d"
+  },
+  "name": "OnePlus 13",
+  "price": 64999,
+  "category": "Mobile",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_Mm2ImIpCw8euHFLYw-h5oxMoxrLjtWqFryAn3dtTIA&s=10",
+  "description": "OnePlus 13 with Hasselblad camera system, Snapdragon 8 Gen 4, and 100W fast charging."
+},
+{
+  "_id": {
+    "$oid": "6a83f8a6ce386b642301542e"
+  },
+  "name": "Dell Inspiron 15",
+  "price": 55999,
+  "category": "Laptop",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsJSuuYD-sLifxtr4y9QTgZWuzsgc4u9fCNIo8iE9ZRg&s=10",
+  "description": "Dell Inspiron 15 laptop featuring Intel Core i5 processor, 16GB RAM, and 512GB SSD for everyday productivity."
+},
+{
+  "_id": {
+    "$oid": "6a83f8a6ce386b642301542f"
+  },
+  "name": "MacBook Air M3",
+  "price": 114900,
+  "category": "Laptop",
+  "image": "https://cdsassets.apple.com/live/7WUAS350/images/tech-specs/mba_13_m3_2024_hero.png",
+  "description": "Apple MacBook Air with M3 chip, 8GB unified memory, 256GB SSD, and up to 18 hours of battery life."
+},
+{
+  "_id": {
+    "$oid": "6a83f8a6ce386b6423015430"
+  },
+  "name": "HP Pavilion 14",
+  "price": 48999,
+  "category": "Laptop",
+  "image": "https://electronicparadise.in/cdn/shop/files/1_0f4c8e17-dee8-45a9-998b-5d311152318a.jpg?v=1727263398&width=679",
+  "description": "HP Pavilion 14 with AMD Ryzen 5, 8GB RAM, and 512GB SSD, ideal for students and professionals."
+},
+{
+  "_id": {
+    "$oid": "6a83f8a6ce386b6423015431"
+  },
+  "name": "Sony WH-1000XM5",
+  "price": 29999,
+  "category": "Headphones",
+  "image": "https://www.sony.co.in/image/6145c1d32e6ac8e63a46c912dc33c5bb?fmt=png-alpha&wid=330",
+  "description": "Sony premium wireless noise-cancelling headphones with exceptional sound quality and all-day comfort."
+},
+{
+  "_id": {
+    "$oid": "6a83f8a6ce386b6423015432"
+  },
+  "name": "Bose QuietComfort Ultra",
+  "price": 34999,
+  "category": "Headphones",
+  "image": "https://m.media-amazon.com/images/I/51PidGKAJ6L.jpg",
+  "description": "Bose QuietComfort Ultra headphones with immersive spatial audio and industry-leading noise cancellation."
+},
+{
+  "_id": {
+    "$oid": "6a83f8a6ce386b6423015433"
+  },
+  "name": "boAt Rockerz 550",
+  "price": 1999,
+  "category": "Headphones",
+  "image": "https://vlebazaar.in/image/cache/catalog/boAt-Rockerz-550-Bluetooth-Wireless-Over-Ear-Headphone-with-Mic-Black-Sy/boAt-Rockerz-550-Bluetooth-Wireless-Over-Ear-Headphone-with-Mic-Black-Symphony-R-1500x1500.jpg",
+  "description": "boAt Rockerz 550 over-ear wireless headphones with punchy bass and up to 20 hours of playback."
+},
+{
+  "_id": {
+    "$oid": "6a83f8a6ce386b6423015434"
+  },
+  "name": "Apple Watch Series 10",
+  "price": 45999,
+  "category": "Smartwatch",
+  "image": "https://www.icrescent.in/cdn/shop/files/61MCwIFvKuL._SX679_-removebg-preview_f7ba167f-c3a8-4d4e-9fd0-9509c0bbb314.png?v=1757592238&width=1445",
+  "description": "Apple Watch Series 10 with fitness tracking, heart-rate monitoring, GPS, and seamless iPhone integration."
+},
+{
+  "_id": {
+    "$oid": "6a83f8a6ce386b6423015435"
+  },
+  "name": "Samsung Galaxy Watch 7",
+  "price": 32999,
+  "category": "Smartwatch",
+  "image": "https://cdn.mos.cms.futurecdn.net/v2/t:0,l:255,cw:1538,ch:1154,q:80,w:1538/pQLgepFdrm8vcqpuvqGPRA.jpg",
+  "description": "Samsung Galaxy Watch 7 with advanced sleep coaching, body composition analysis, and vibrant AMOLED display."
+},
+{
+  "_id": {
+    "$oid": "6a83f8a6ce386b6423015436"
+  },
+  "name": "Noise ColorFit Pro 5",
+  "price": 3499,
+  "category": "Smartwatch",
+  "image": "https://www.fliptwirls.com/uploads/90009900523113_1_123-37.png",
+  "description": "Noise ColorFit Pro 5 smartwatch with Bluetooth calling, AMOLED display, and multiple sport modes."
+},
+{
+  "_id": {
+    "$oid": "6a83f8a6ce386b6423015437"
+  },
+  "name": "iPad Air 5th Gen",
+  "price": 59900,
+  "category": "Tablet",
+  "image": "https://media-ik.croma.com/Croma%20Assets/Computers%20Peripherals/Tablets%20and%20iPads/Images/264356_iyyy1g.png",
+  "description": "Apple iPad Air with M1 chip, 10.9-inch Liquid Retina display, and support for Apple Pencil."
+},
+{
+  "_id": {
+    "$oid": "6a83f8a6ce386b6423015438"
+  },
+  "name": "Samsung Galaxy Tab S9",
+  "price": 72999,
+  "category": "Tablet",
+  "image": "https://www.leronza.com/wp-content/uploads/2024/08/Leronza-Luxury-24k-Gold-Samsung-Galaxy-s9.webp",
+  "description": "Samsung Galaxy Tab S9 with Dynamic AMOLED 2X display, S Pen included, and IP68 water resistance."
+},
+{
+  "_id": {
+    "$oid": "6a83f8a6ce386b6423015439"
+  },
+  "name": "Logitech MX Master 3S",
+  "price": 8999,
+  "category": "Accessories",
+  "image": "https://m.media-amazon.com/images/I/61xKiCADfpL.jpg",
+  "description": "Logitech MX Master 3S wireless mouse with ultra-quiet clicks and 8K DPI tracking sensor."
+},
+{
+  "_id": {
+    "$oid": "6a83f8a6ce386b642301543a"
+  },
+  "name": "Anker 737 Power Bank",
+  "price": 12999,
+  "category": "Accessories",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOInSuaIUi-PucbpyQf9uFrI_h_qiG6A45OJfL_bl_sRIlakcu_8HwA6q7&s=10",
+  "description": "Anker 737 Power Bank with 24000mAh capacity and 140W fast charging for laptops and phones."
+},
+{
+  "_id": {
+    "$oid": "6a83f8a6ce386b642301543b"
+  },
+  "name": "JBL Flip 6",
+  "price": 10999,
+  "category": "Speaker",
+  "image": "https://in.jbl.com/dw/image/v2/BFND_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dwf0f285ee/2_JBL_FLIP6_3_4_RIGHT_BLUE_30192_x1.png?sw=535&sh=535",
+  "description": "JBL Flip 6 portable Bluetooth speaker with bold sound, deep bass, and IP67 waterproof design."
+},
+{
+  "_id": {
+    "$oid": "6a83f8a6ce386b642301543c"
+  },
+  "name": "Sony SRS-XB100",
+  "price": 3999,
+  "category": "Speaker",
+  "image": "https://sony.scene7.com/is/image/sonyglobalsolutions/Primary_image_1200-11?$categorypdpnav$&fmt=png-alpha",
+  "description": "Sony SRS-XB100 compact wireless speaker with punchy bass and up to 16 hours of battery life."
+},
+{
+  "_id": {
+    "$oid": "6a83f8a6ce386b642301543d"
+  },
+  "name": "Canon EOS R50",
+  "price": 74999,
+  "category": "Camera",
+  "image": "https://gppro.in/wp-content/uploads/2023/06/EOS-R50-1.jpg",
+  "description": "Canon EOS R50 mirrorless camera with 24.2MP sensor, 4K video, and beginner-friendly controls."
+},
+{
+  "_id": {
+    "$oid": "6a83f8a6ce386b642301543e"
+  },
+  "name": "GoPro HERO12 Black",
+  "price": 39999,
+  "category": "Camera",
+  "image": "https://m.media-amazon.com/images/I/61dUvabnSmL.jpg",
+  "description": "GoPro HERO12 Black action camera with 5.3K video, HyperSmooth 6.0 stabilization, and rugged waterproof body."
+}]

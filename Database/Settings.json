@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "6aa245e4b9fce1bd4481f412"
+  },
+  "userId": {
+    "$oid": "6aa105cf0243c173c6116eb1"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-09-10T05:53:38.602Z"
+  },
+  "darkMode": false,
+  "deliveryAddress": "Mumbai",
+  "email": "alok1232@gmail.com",
+  "fullName": "alok",
+  "notifications": true,
+  "phone": "9829457683",
+  "updatedAt": {
+    "$date": "2026-09-11T20:19:49.512Z"
+  }
+}]

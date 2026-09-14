@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "6a844f5fbb10e8a464b37de4"
+  },
+  "fullname": "Priyanshu",
+  "email": "priyanshu1234@gmail.com",
+  "password": "$2b$10$AyQybdenLrtBzWW3YyMeoeFbQC5dB5V0S1MyQ5MHgN9Cs3Vg4Ude6",
+  "createdAt": {
+    "$date": "2026-08-18T12:26:07.391Z"
+  },
+  "updatedAt": {
+    "$date": "2026-08-18T12:26:07.391Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6aa8078317be132367291d34"
+  },
+  "fullname": "Rohit Kumar",
+  "email": "rohitkumar123@gmail.com",
+  "password": "$2b$10$iS7Z8c.mRicrfktA3LbDOOlfGo5RMLycpjhE9EKGThozrYJ8GGI7S",
+  "createdAt": {
+    "$date": "2026-09-14T14:41:08.050Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-14T14:41:08.050Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6aa8082017be132367291d38"
+  },
+  "fullname": "Piyush Rawat",
+  "email": "piyushrawat23@gmail.com",
+  "password": "$2b$10$no/UbIN4rOMlo.rDDyUs2.loYDlnwLuOpW9WqsGGEoLYVU.St3i/O",
+  "createdAt": {
+    "$date": "2026-09-14T14:43:44.005Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-14T14:43:44.005Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6aa808a817be132367291d40"
+  },
+  "fullname": "Rahul Sharma",
+  "email": "rahulsharma123@gmail.com",
+  "password": "$2b$10$D8eM7CaxVb5927ocwqirOOrgxtESv0TAnIZIRmwNcdUoSL0LcUsIy",
+  "createdAt": {
+    "$date": "2026-09-14T14:46:00.668Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-14T14:46:00.668Z"
+  },
+  "__v": 0
+}]

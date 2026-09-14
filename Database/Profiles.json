@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "6aa105cf0243c173c6116eb1"
+  },
+  "name": "Alok Sethi",
+  "email": "aloksethi1234@gmail.com",
+  "phone": "9923435465",
+  "address": "Gurgaron",
+  "createdAt": {
+    "$date": "2026-09-09T07:07:59.915Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-11T19:08:09.255Z"
+  },
+  "__v": 0
+}]
