@@ -7,10 +7,15 @@ A Quick Delivery System is a web-based online ordering and delivery management a
 The Quick Delivery System provides a simple and user-friendly platform for online product ordering.
 
 Main Features
+
 🔐 User Registration and Login
+
 🛍️ Browse Products
+
 🛒 Add Products to Cart
+
 📦 Place Orders
+
 📋 View Order History
 👤 Manage User Profile
 ⚙️ Manage Settings
