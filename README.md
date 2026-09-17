@@ -71,11 +71,6 @@ QuickDelivery/
 ├── frontend/ 
 
 │ 
-
 ├── src/ 
-
 │ 
-
-│ 
-
-├── components/ │ │ ├── pages/ │ │ ├── context/ │ │ ├── routes/ │ │ ├── App.jsx │ │ └── main.jsx │ │ │ ├── package.json │ └── vite.config.js │ ├── backend/ │ ├── controllers/ │ ├── models/ │ ├── routes/ │ ├── middleware/ │ ├── server.js │ └── package.json │ └── README.md
+│ ├── components/ │ │ ├── pages/ │ │ ├── context/ │ │ ├── routes/ │ │ ├── App.jsx │ │ └── main.jsx │ │ │ ├── package.json │ └── vite.config.js │ ├── backend/ │ ├── controllers/ │ ├── models/ │ ├── routes/ │ ├── middleware/ │ ├── server.js │ └── package.json │ └── README.md
