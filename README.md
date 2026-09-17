@@ -111,3 +111,105 @@ QuickDelivery/
 
 └── README.md
 
+# 🖥️ Frontend Pages
+# Home Page
+
+Displays the main information about the Quick Delivery System and provides navigation to different sections.
+
+# Products Page
+
+Users can:
+
+View available products
+
+Filter products by category
+
+Check product prices
+
+Add products to the cart
+
+# Cart Page
+
+Users can:
+
+View selected products
+
+Change product quantity
+
+Remove products
+
+View total amount
+
+Proceed to place an order
+
+# Orders Page
+
+Users can view their orders with information such as:
+
+Order ID
+
+Product name
+
+Quantity
+
+Amount
+
+Order date
+
+Order status
+
+Example order statuses:
+
+Pending
+
+Out for Delivery
+
+Delivered
+
+Cancelled
+
+# Profile Page
+
+Users can manage their:
+
+Name
+
+Email
+
+Phone number
+
+Address
+
+# Settings Page
+
+Users can manage application settings such as:
+
+Full Name
+
+Email
+
+Phone
+
+Delivery Address
+
+Notifications
+
+Dark Mode
+
+Contact Page
+
+Users can contact the support team and view frequently asked questions.
+
+# Dashboard
+
+The dashboard provides information such as:
+
+Total Orders
+
+Pending Orders
+
+Delivered Orders
+
+Total Amount Spent
+
+Recent Orders
