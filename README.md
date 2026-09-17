@@ -95,7 +95,7 @@ QuickDelivery/
 
 ├── backend/ 
 
-│ ├── controllers/
+│   ├── controllers/
 
 │ ├── models/ 
 
@@ -107,5 +107,7 @@ QuickDelivery/
 
 │ └── package.json 
 
-│ └── README.md
+│ 
+
+└── README.md
 
