@@ -17,8 +17,17 @@ Main Features
 📦 Place Orders
 
 📋 View Order History
+
 👤 Manage User Profile
+
 ⚙️ Manage Settings
+
 📞 Contact Support
+
 📊 Dashboard
+
 🔒 Protected Routes
+
+# 🛠️ Technologies Used
+
+# Fronted
