@@ -1,23 +1,19 @@
 # QuickDeliverySystem
 
+A Quick Delivery System is a web-based online ordering and delivery management application. It allows users to browse products, add products to the cart, place orders, and manage their profile and settings. The project uses React.js for the frontend and Node.js, Express.js, and MongoDB for the backend.
+
 # 📌 Project Overview
 
-Quick Delivery System is a web-based online ordering and delivery application. It allows users to browse products, add products to a cart, place orders, and view their order details.
+The Quick Delivery System provides a simple and user-friendly platform for online product ordering.
 
-The application also provides user profile, settings, contact, and dashboard features.
-
-# 🚀 Features
-
-User Registration and Login
-User Authentication
-Browse Products
-Product Categories
-Add Products to Cart
-View Cart
-Place Orders
-View Order Details
-Order Status
-User Profile Management
-User Settings
-Contact Form
-Dashboard
+Main Features
+🔐 User Registration and Login
+🛍️ Browse Products
+🛒 Add Products to Cart
+📦 Place Orders
+📋 View Order History
+👤 Manage User Profile
+⚙️ Manage Settings
+📞 Contact Support
+📊 Dashboard
+🔒 Protected Routes
