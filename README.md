@@ -72,9 +72,8 @@ QuickDelivery/
 
 │ 
 ├── src/ 
-│ 
 
-│ ├── components/ 
+│ │ ├── components/ 
 
 │ │ ├── pages/ 
 
@@ -86,7 +85,9 @@ QuickDelivery/
 
 │ │ └── main.jsx 
 
-│ │ │ ├── package.json 
+│ │ 
+
+│ ├── package.json 
 
 │ └── vite.config.js 
 
