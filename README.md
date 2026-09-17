@@ -31,3 +31,33 @@ Main Features
 # 🛠️ Technologies Used
 
 # Fronted
+
+React.js
+
+JavaScript
+
+HTML5
+
+CSS3
+
+Tailwind CSS
+
+React Router
+
+Axios
+
+# Backend 
+
+Node.js
+
+Express.js
+
+MongoDB
+
+Mongoose
+
+#Development Tools
+
+Visual Studio Code
+
+MongoDB Compass
